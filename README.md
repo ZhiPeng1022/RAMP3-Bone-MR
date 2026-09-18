@@ -64,8 +64,12 @@ authoritative source data and their terms of use.
 
 ## Citation
 
-Citation metadata are provided in `CITATION.cff`. The archived version DOI
-will be added after the first GitHub release is archived by Zenodo.
+Citation metadata are provided in `CITATION.cff`.
+
+- Version DOI for `v1.0.0`:
+  https://doi.org/10.5281/zenodo.22832847
+- Concept DOI for all versions:
+  https://doi.org/10.5281/zenodo.22832846
 
 ## License
 
