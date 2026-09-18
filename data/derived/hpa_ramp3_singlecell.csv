@@ -1,0 +1,202 @@
+cell_type,cluster,nTPM
+Endothelial cells,Endothelial and mural cells,409.5
+Endothelial cell,Endothelial and mural cells,143.3
+Renal nephron cells,Specialized epithelial cells,87.0
+Stellate cells,Mesenchymal cells,51.6
+Stromal cells,Mesenchymal cells,29.9
+Spermatogenic cell types,Germ cells,25.1
+Oligodendrocyte,Glial cells,23.5
+Deep-layer corticothalamic and 6b,Neuronal cells,19.7
+Barrier epithelial cells,Specialized epithelial cells,15.9
+Vascular associated smooth muscle cell,Endothelial and mural cells,14.3
+Mononuclear phagocytes,Blood and immune cells,9.2
+Neuronal cells,Neuronal cells,7.6
+Glial cells,Glial cells,7.5
+Mural cells,Endothelial and mural cells,7.2
+Deep-layer near-projecting,Neuronal cells,6.7
+Luminal cells,Glandular epithelial cells,6.4
+T-cells,Blood and immune cells,5.9
+Mammillary body,Neuronal cells,4.8
+Myocytes,Muscle cells,4.3
+Astrocyte,Glial cells,3.9
+Gastric glandular cells,Glandular epithelial cells,3.5
+Suprabasal cells,Squamous epithelial cells,3.1
+Secretory gland support,Specialized epithelial cells,2.9
+Fibroblasts,Mesenchymal cells,2.8
+Thalamic excitatory,Neuronal cells,2.6
+Stem cells,Stem and proliferating cells,2.5
+Miscellaneous,Neuronal cells,2.5
+Splatter,Neuronal cells,2.5
+Upper-layer intratelencephalic,Neuronal cells,2.3
+Committed oligodendrocyte precursor,Glial cells,2.3
+Neutrophils,Blood and immune cells,2.2
+Upper rhombic lip,Neuronal cells,2.2
+Secretory cells,Glandular epithelial cells,2.1
+Deep-layer intratelencephalic,Neuronal cells,2.1
+Lamp5-lhx6 and chandelier,Neuronal cells,1.9
+Pericyte,Endothelial and mural cells,1.9
+Ductal cells,Specialized epithelial cells,1.7
+Hippocampal dentate gyrus,Neuronal cells,1.6
+Ciliated cells,Ciliated cells,1.5
+B-cells,Blood and immune cells,1.5
+Ependymal cell,Ciliated cells,1.5
+Nk-cells,Blood and immune cells,1.4
+Amygdala excitatory,Neuronal cells,1.4
+Memory CD4 T-cell Th2,T-cells,1.4
+Plasma cells,Blood and immune cells,1.3
+Proliferating cells,Stem and proliferating cells,1.3
+Hepatocytes,Specialized epithelial cells,1.2
+Glandular cells,Glandular epithelial cells,1.2
+Reproductive supporting cells,Specialized epithelial cells,1.1
+Mast cells,Blood and immune cells,1.1
+Alveolar cells,Specialized epithelial cells,1.0
+Adrenal endocrine cells,Endocrine cells,0.9
+Pancreatic islet cells,Endocrine cells,0.9
+Basal cells,Specialized epithelial cells,0.9
+Adipocytes,Mesenchymal cells,0.9
+Fibro-adipogenic progenitors,Mesenchymal cells,0.9
+Pigment cells,Pigment cells,0.7
+Mge interneuron,Neuronal cells,0.7
+Leukocyte,Blood and immune cells,0.7
+Non-switched memory B-cell,B-cells,0.7
+Apical squamous epithelial cells,Squamous epithelial cells,0.6
+Dendritic cells,Blood and immune cells,0.6
+Eccrine sweat gland cells,Glandular epithelial cells,0.600
+Central nervous system macrophage,Glial cells,0.6
+Neutrophil,Granulocytes,0.6
+Outer root sheath cells,Specialized epithelial cells,0.468
+NK-cells (Lung),Blood and immune cells,0.466
+Adipocytes (Skin),Mesenchymal cells,0.463
+Undifferentiated cells (Pituitary gland),Stem and proliferating cells,0.431
+Ionocytes,Specialized epithelial cells,0.4
+Acinar cells,Glandular epithelial cells,0.4
+Smooth muscle cells,Muscle cells,0.4
+Hippocampal ca1-3,Neuronal cells,0.4
+Oligodendrocyte precursor cell,Glial cells,0.4
+Fibroblast,Mesenchymal cells,0.4
+Enteric glia cells,Glial cells,0.385
+Hair cortex cells,Specialized epithelial cells,0.361
+Cholangiocytes,Specialized epithelial cells,0.352
+Mitotic cells (Minor salivary gland),Stem and proliferating cells,0.347
+Inner root sheath cells,Specialized epithelial cells,0.344
+Minor salivary glandular cells,Glandular epithelial cells,0.307
+Adipocytes (Minor salivary gland),Mesenchymal cells,0.301
+Innate lymphoid cells,Blood and immune cells,0.3
+Cge interneuron,Neuronal cells,0.3
+Total PBMC,Total PBMC,0.3
+Alpha cells,Endocrine cells,0.287
+Alveolar cells type 1,Specialized epithelial cells,0.254
+Sebaceous gland cells,Glandular epithelial cells,0.252
+Minor salivary gland basal cells,Specialized epithelial cells,0.230
+Adrenal medulla cells,Endocrine cells,0.222
+Colon enteroendocrine cells,Endocrine cells,0.217
+Ascending Loop of Henle cells,Glandular epithelial cells,0.201
+Trophoblast cells,Trophoblast cells,0.2
+Lower rhombic lip,Neuronal cells,0.2
+Choroid plexus epithelial cell,Ciliated cells,0.2
+Peritubular cells,Muscle cells,0.188
+Podocytes,Specialized epithelial cells,0.177
+Mitotic cells (Heart),Stem and proliferating cells,0.173
+Gastric enteroendocrine cells,Endocrine cells,0.157
+Mitotic cells (Stomach),Stem and proliferating cells,0.133
+Adipocytes (Breast),Mesenchymal cells,0.131
+Pituitary endocrine cells,Endocrine cells,0.1
+Leydig cells,Endocrine cells,0.1
+Cerebellar inhibitory,Neuronal cells,0.1
+Eccentric medium spiny neuron,Neuronal cells,0.1
+Hippocampal ca4,Neuronal cells,0.1
+Medium spiny neuron,Neuronal cells,0.1
+Midbrain-derived inhibitory,Neuronal cells,0.1
+Bergmann glia,Glial cells,0.1
+Memory CD4 T-cell,T-cells,0.1
+B-cells (Lung),Blood and immune cells,0.099
+Beta cells,Endocrine cells,0.095
+Mitotic cells (Skin),Stem and proliferating cells,0.094
+Mitotic cells (Adrenal gland),Stem and proliferating cells,0.092
+Sertoli cells,Specialized epithelial cells,0.087
+Mitotic cells (Colon),Stem and proliferating cells,0.071
+Spermatogonia,Germ cells,0.069
+Respiratory ciliated cells,Ciliated cells,0.048
+Mitotic cells (Thyroid),Stem and proliferating cells,0.044
+Urothelial cells,Specialized epithelial cells,0.029
+Minor salivary gland ductal cells,Specialized epithelial cells,0.029
+Prostate basal glandular cells,Glandular epithelial cells,0.027
+B-cells (Spleen),Blood and immune cells,0.025
+Langerhans cells,Blood and immune cells,0.013
+Thyroid glandular cells,Glandular epithelial cells,0.008
+Enteroendocrine cells,Endocrine cells,0.0
+Enterocytes,Glandular epithelial cells,0.0
+Goblet cells,Glandular epithelial cells,0.0
+Oocytes,Germ cells,0.0
+Megakaryocytes,Blood and immune cells,0.0
+Platelets,Blood and immune cells,0.0
+Erythrocytes,Blood and immune cells,0.0
+Basophil,Granulocytes,0.0
+Eosinophil,Granulocytes,0.0
+Classical monocyte,Monocytes,0.0
+Non-classical monocyte,Monocytes,0.0
+Intermediate monocyte,Monocytes,0.0
+T-reg,T-cells,0.0
+GdT-cell,T-cells,0.0
+MAIT T-cell,T-cells,0.0
+Naive CD4 T-cell,T-cells,0.0
+Memory CD8 T-cell,T-cells,0.0
+Naive CD8 T-cell,T-cells,0.0
+Memory B-cell,B-cells,0.0
+Naive B-cell,B-cells,0.0
+Plasmacytoid DC,Dendritic cells,0.0
+Myeloid DC,Dendritic cells,0.0
+NK-cell,NK-cells,0.0
+Vd2 gdTCR,T-cells,0.0
+Memory CD4 T-cell TFH,T-cells,0.0
+Memory CD4 T-cell Th17,T-cells,0.0
+Memory CD4 T-cell Th1\/Th17,T-cells,0.0
+Non-Vd2 gdTCR,T-cells,0.0
+Memory CD4 T-cell Th1,T-cells,0.0
+Terminal effector memory CD4 T-cell,T-cells,0.0
+Central memory CD8 T-cell,T-cells,0.0
+Effector memory CD8 T-cell,T-cells,0.0
+Terminal effector memory CD8 T-cell,T-cells,0.0
+Switched memory B-cell,B-cells,0.0
+Plasmablast,B-cells,0.0
+Exhausted memory B-cell,B-cells,0.0
+Progenitor cell,Progenitors,0.0
+Naive CD4 T-cell activated,T-cells,0.0
+Naive CD8 T-cell activated,T-cells,0.0
+Memory T-reg,T-cells,0.0
+Naive T-reg,T-cells,0.0
+Erythroid cells,Blood and immune cells,-0.018
+Gastric mucous cells,Glandular epithelial cells,-0.018
+Breast myoepithelial cells,Specialized epithelial cells,-0.023
+Intercalated cells,Glandular epithelial cells,-0.024
+Parafollicular cells,Endocrine cells,-0.039
+Skeletal myocytes,Muscle cells,-0.041
+Adrenal cortex cells,Glandular epithelial cells,-0.043
+Colon enterocytes,Glandular epithelial cells,-0.058
+NK-cells (Spleen),Blood and immune cells,-0.083
+Proximal tubular cells,Glandular epithelial cells,-0.084
+Cardiomyocytes,Muscle cells,-0.103
+NK-cells (Liver),Blood and immune cells,-0.104
+Gonadotropes,Glandular epithelial cells,-0.110
+Adipocytes (Visceral),Mesenchymal cells,-0.125
+Prostate glandular cells,Glandular epithelial cells,-0.127
+Mitotic cells (Lung),Stem and proliferating cells,-0.128
+Breast glandular cells,Glandular epithelial cells,-0.130
+Mitotic cells (Spleen),Stem and proliferating cells,-0.137
+Thyrotropes,Glandular epithelial cells,-0.152
+Mesothelial cells,Specialized epithelial cells,-0.174
+Spermatocytes,Germ cells,-0.176
+Late spermatids,Germ cells,-0.179
+Melanocytes,Pigment cells,-0.188
+Somatotropes,Glandular epithelial cells,-0.206
+Adipocytes (Subcutaneous),Mesenchymal cells,-0.249
+Breast glandular cells (progenitors),Glandular epithelial cells,-0.255
+Parietal cells,Glandular epithelial cells,-0.262
+Alveolar cells type 2,Specialized epithelial cells,-0.274
+Corticotropes,Glandular epithelial cells,-0.307
+Chief cells,Glandular epithelial cells,-0.320
+Keratinocyte (granular),Squamous epithelial cells,-0.346
+Early spermatids,Germ cells,-0.370
+Lactotropes,Glandular epithelial cells,-0.435
+Keratinocyte (other),Squamous epithelial cells,-0.475
+Exocrine glandular cells,Glandular epithelial cells,-0.516

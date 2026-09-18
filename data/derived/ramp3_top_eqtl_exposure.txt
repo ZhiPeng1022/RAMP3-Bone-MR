@@ -1,0 +1,6 @@
+rs_id	beta	se	alt	ref	tissue
+rs3801413	0.120772	0.027939	G	C	Adipose_Subcutaneous
+rs1294856	0.320526	0.050619	C	T	Liver
+rs3801408	-0.14331	0.028951	G	A	Muscle_Skeletal
+rs11974651	0.12056	0.025622	A	T	Thyroid
+rs1294873	0.314444	0.038398	G	A	Whole_Blood

@@ -1,0 +1,4 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ieu-a-980","finn-b-ST19_FRACT_FOREA","Fracture of forearm || id:finn-b-ST19_FRACT_FOREA","Femoral neck bone mineral density || id:ieu-a-980","Inverse variance weighted",22,-0.61045994479556,0.145077910617286,2.57860189320757e-05
+"ieu-a-980","finn-b-ST19_FRACT_FOREA","Fracture of forearm || id:finn-b-ST19_FRACT_FOREA","Femoral neck bone mineral density || id:ieu-a-980","MR Egger",22,-0.232006212808294,0.749556319314856,0.760124149187941
+"ieu-a-980","finn-b-ST19_FRACT_FOREA","Fracture of forearm || id:finn-b-ST19_FRACT_FOREA","Femoral neck bone mineral density || id:ieu-a-980","Weighted median",22,-0.503767015459855,0.098278701109855,2.96116214124327e-07

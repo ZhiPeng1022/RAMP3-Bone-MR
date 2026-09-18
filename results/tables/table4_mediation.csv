@@ -1,0 +1,3 @@
+"Path","a_beta","a_P","b_beta","b_P","indirect_beta","indirect_SE"
+"RAMP3 -> BMI -> eBMD",0.00062,0.281,-0.00058,4.02e-12,-3.62e-07,3.39e-07
+"RAMP3 -> T2D -> eBMD",0.0114,1.23e-05,-0.00236,0.00104,-2.7e-05,1.03e-05

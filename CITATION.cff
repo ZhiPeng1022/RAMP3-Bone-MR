@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "RAMP3-Bone-MR"
+abstract: "Analysis code for the RAMP3 and cortical bone Mendelian randomization study."
+type: software
+license: MIT
+authors:
+  - name: "Peng Zhi"
+  - name: "Xiaohe Yan"
+  - name: "Chaofan Zhang"
+version: 1.0.0
+date-released: 2026-09-18
+url: "https://github.com/ZhiPeng1022/RAMP3-Bone-MR"
+repository-code: "https://github.com/ZhiPeng1022/RAMP3-Bone-MR"

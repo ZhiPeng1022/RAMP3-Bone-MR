@@ -1,0 +1,6 @@
+rs_id	beta	se	alt	ref	tissue
+rs1294873	0.314444	0.038398	G	A	Whole_Blood
+rs975349	0.315476	0.038557	A	G	Whole_Blood
+rs1294866	0.315476	0.038557	T	C	Whole_Blood
+rs2527027	0.311114	0.038504	A	G	Whole_Blood
+rs1294862	0.311114	0.038504	A	G	Whole_Blood

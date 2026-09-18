@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+.Rproj.user/
+*.log
+*.tmp
+*.bak
+*.zip
+data/raw/*
+!data/raw/README.md
+figures/final/*_preview.png
